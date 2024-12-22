@@ -1,0 +1,227 @@
+[
+    {
+        "adventureTitle": "Amazon Rainforest Trek",
+        "image": "https://i.ibb.co.com/FwvckJK/download-6.jpg",
+        "id": 1,
+        "categoryName": "Jungle Adventure",
+        "shortDescription": "Explore the heart of the Amazon rainforest with expert guides.",
+        "adventureCost": 1200,
+        "bookingAvailability": "Yes",
+        "location": "Manaus, Brazil",
+        "duration": "7 days",
+        "adventureLevel": "Intermediate",
+        "includedItems": [
+            "Meals",
+            "Accommodation",
+            "Guided Tours",
+            "Safety Gear"
+        ],
+        "ecoFriendlyFeatures": [
+            "Carbon offset for travel",
+            "No plastic policy",
+            "Recycling initiatives"
+        ],
+        "maxGroupSize": 10,
+        "specialInstructions": [
+            "Pack light",
+            "Bring insect repellent",
+            "Vaccination for yellow fever required"
+        ]
+    },
+    {
+        "adventureTitle": "Great Barrier Reef Dive",
+        "image": "https://i.ibb.co.com/z5BsW5F/2.jpg",
+        "id": 2,
+        "categoryName": "Marine Adventure",
+        "shortDescription": "Dive into the vibrant world of the Great Barrier Reef.",
+        "adventureCost": 800,
+        "bookingAvailability": "Yes",
+        "location": "Cairns, Australia",
+        "duration": "3 days",
+        "adventureLevel": "Advanced",
+        "includedItems": [
+            "Diving equipment",
+            "Underwater photography session",
+            "Accommodation"
+        ],
+        "ecoFriendlyFeatures": [
+            "Marine conservation workshops",
+            "Eco-certified boats",
+            "No-anchor zones"
+        ],
+        "maxGroupSize": 6,
+        "specialInstructions": [
+            "Diving certification required",
+            "No single-use plastics",
+            "Follow reef-safe practices"
+        ]
+    },
+    {
+        "adventureTitle": "Sahara Desert Camel Expedition",
+        "image": "https://i.ibb.co.com/BtVnnhG/3.jpg",
+        "id": 3,
+        "categoryName": "Desert Adventure",
+        "shortDescription": "Experience the vastness of the Sahara on camelback.",
+        "adventureCost": 500,
+        "bookingAvailability": "Yes",
+        "location": "Merzouga, Morocco",
+        "duration": "4 days",
+        "adventureLevel": "Beginner",
+        "includedItems": [
+            "Camel rides",
+            "Traditional meals",
+            "Desert camp accommodation"
+        ],
+        "ecoFriendlyFeatures": [
+            "Local community support",
+            "Solar-powered camps",
+            "Minimal water usage"
+        ],
+        "maxGroupSize": 12,
+        "specialInstructions": [
+            "Wear sun protection",
+            "Stay hydrated",
+            "Respect local customs"
+        ]
+    },
+    {
+        "adventureTitle": "Patagonia Glacier Hike",
+        "image": "https://i.ibb.co.com/JB33Gny/4.jpg",
+        "id": 4,
+        "categoryName": "Ice Adventure",
+        "shortDescription": "Traverse the stunning glaciers of Patagonia with expert guides.",
+        "adventureCost": 1500,
+        "bookingAvailability": "No",
+        "location": "El Calafate, Argentina",
+        "duration": "5 days",
+        "adventureLevel": "Advanced",
+        "includedItems": [
+            "Crampons",
+            "Expert guides",
+            "Warm meals"
+        ],
+        "ecoFriendlyFeatures": [
+            "Leave-no-trace policy",
+            "Reusable water bottles",
+            "Renewable energy use"
+        ],
+        "maxGroupSize": 8,
+        "specialInstructions": [
+            "Pack insulated clothing",
+            "Wear sturdy boots",
+            "Physical fitness required"
+        ]
+    },
+    {
+        "adventureTitle": "Himalayan Eco Trek",
+        "image": "https://i.ibb.co.com/pLZjn1p/5.jpg",
+        "id": 5,
+        "categoryName": "Mountain Adventure",
+        "shortDescription": "Trek through the breathtaking landscapes of the Himalayas.",
+        "adventureCost": 1000,
+        "bookingAvailability": "Yes",
+        "location": "Pokhara, Nepal",
+        "duration": "10 days",
+        "adventureLevel": "Intermediate",
+        "includedItems": [
+            "Porters",
+            "Guides",
+            "Eco-friendly lodges"
+        ],
+        "ecoFriendlyFeatures": [
+            "Support reforestation",
+            "Minimal-waste cooking",
+            "Solar-powered facilities"
+        ],
+        "maxGroupSize": 15,
+        "specialInstructions": [
+            "Bring hiking boots",
+            "Train for altitude",
+            "Respect local wildlife"
+        ]
+    },
+    {
+        "adventureTitle": "Costa Rica Canopy Adventure",
+        "image": "https://i.ibb.co.com/W3bmgNN/6.jpg",
+        "id": 6,
+        "categoryName": "Canopy Adventure",
+        "shortDescription": "Soar through Costa Rica's lush rainforests on a zipline.",
+        "adventureCost": 300,
+        "bookingAvailability": "Yes",
+        "location": "Monteverde, Costa Rica",
+        "duration": "1 day",
+        "adventureLevel": "Beginner",
+        "includedItems": [
+            "Safety harness",
+            "Guided zipline tours",
+            "Local snacks"
+        ],
+        "ecoFriendlyFeatures": [
+            "Tree-planting initiative",
+            "Eco-certified zipline",
+            "Support for local guides"
+        ],
+        "maxGroupSize": 20,
+        "specialInstructions": [
+            "Wear closed-toe shoes",
+            "Follow safety instructions",
+            "No heavy backpacks"
+        ]
+    },
+    {
+        "adventureTitle": "Antarctic Wildlife Cruise",
+        "image": "https://i.ibb.co.com/Y870kXn/7.jpg",
+        "id": 7,
+        "categoryName": "Polar Adventure",
+        "shortDescription": "Witness the majestic wildlife of Antarctica aboard an eco-cruise.",
+        "adventureCost": 5000,
+        "bookingAvailability": "Yes",
+        "location": "Ushuaia, Argentina",
+        "duration": "14 days",
+        "adventureLevel": "Beginner",
+        "includedItems": [
+            "Polar gear rental",
+            "Wildlife tours",
+            "Expert lectures"
+        ],
+        "ecoFriendlyFeatures": [
+            "Eco-friendly vessels",
+            "Wildlife conservation donations",
+            "Plastic-free policy"
+        ],
+        "maxGroupSize": 50,
+        "specialInstructions": [
+            "Pack thermals",
+            "Follow wildlife guidelines",
+            "Travel insurance required"
+        ]
+    },
+    {
+        "adventureTitle": "Northern Lights Arctic Safari",
+        "image": "https://i.ibb.co.com/jVfcp6q/8.jpg",
+        "id": 8,
+        "categoryName": "Winter Adventure",
+        "shortDescription": "Experience the enchanting Aurora Borealis in the Arctic Circle.",
+        "adventureCost": 1800,
+        "bookingAvailability": "Yes",
+        "location": "Tromsø, Norway",
+        "duration": "5 days",
+        "adventureLevel": "Intermediate",
+        "includedItems": [
+            "Snowmobile rides",
+            "Warm lodges",
+            "Aurora photography sessions"
+        ],
+        "ecoFriendlyFeatures": [
+            "Sustainable lodges",
+            "No fossil-fuel transport",
+            "Recycling facilities"
+        ],
+        "maxGroupSize": 8,
+        "specialInstructions": [
+            "Wear thermal clothing",
+            "Bring a tripod for photography",
+            "Be patient for Aurora sightings"
+        ]
+    }
+]
